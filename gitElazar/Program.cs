@@ -10,6 +10,7 @@ namespace gitElazar
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Wellcome to git");
         }
     }
 }
