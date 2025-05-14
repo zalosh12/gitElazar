@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36025.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitElazar", "gitElazar\gitElazar.csproj", "{2FD78060-8046-4972-817D-C49C20667F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD78060-8046-4972-817D-C49C20667F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD78060-8046-4972-817D-C49C20667F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD78060-8046-4972-817D-C49C20667F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD78060-8046-4972-817D-C49C20667F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D3710C-94CD-42EB-85BE-F6D1C4E7BBF5}
+	EndGlobalSection
+EndGlobal
